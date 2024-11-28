@@ -1,3 +1,28 @@
+Created Project of TodoList based on React and NextJS
+
+
+
+
+
+![Screenshot 2024-11-28 212617](https://github.com/user-attachments/assets/f45b9ee5-a1cf-4753-b7dc-c102fbb4a6ef)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
